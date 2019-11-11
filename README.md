@@ -1,5 +1,10 @@
 # navegable-image
 
+## Project description
+```
+Component created to zoom the image and was able to navigate it using the zoom.
+```
+
 ## Project setup
 ```
 npm install
